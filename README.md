@@ -2,6 +2,8 @@
 
 This project uses a webcam and hand tracking to simulate playing a drum set. It uses OpenCV, MediaPipe, Pygame, and Mido for MIDI output.
 
+[Hand Tracking Drum Demo](https://www.youtube.com/watch?v=IOsZOAgc_kc)
+
 ## Requirements
 
 - Python 3.9.x
